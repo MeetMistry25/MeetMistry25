@@ -120,7 +120,7 @@ I specialize in designing **secure, scalable applications** featuring **JWT-base
     <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="./Meetkumar%20Mistry_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/>
+    <img src="https://img.shields.io/badge/Resume-Download_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View CV"/>
   </a>
 </div>
 
