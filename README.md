@@ -16,9 +16,11 @@
 
 ### 👨‍💻 **About Me**
 
-I am a **Final-year Computer Engineering student** at **Indus University**, passionate about crafting robust full-stack web applications. My expertise spans both the **Microsoft Stack (ASP.NET Core)** and the **MERN Stack**, giving me the versatility to build comprehensive digital solutions.
+I’m a final-year Computer Engineering student who enjoys turning real-world problems into secure, scalable, and usable web applications.
 
-I specialize in designing **secure, scalable applications** featuring **JWT-based authentication** and **Role-Based Access Control (RBAC)**. With a **CGPA of 8.83/10**, I combine strong academic foundations with practical, hands-on industry experience.
+I mostly work as a **full-stack developer**, with a strong inclination toward backend engineering — especially designing **RESTful APIs**, implementing **JWT-based authentication**, and structuring role-based access control systems that actually make sense in production.
+
+I’ve built and contributed to full-scale projects using **Angular**, **ASP.NET Core**, **MERN stack**, and modern tooling, focusing not just on making things work, but on making them maintainable. During my internship, I worked on end-to-end features, collaborated using Git, and learned what it really means to ship software in a team.
 
 - 🔭 **Currently working as**: Web Development Intern at **Outamation Technologies**
 - 🌱 **My Tech Stack**: C#, TypeScript, Python, Angular, React, .NET 8
